@@ -1,6 +1,6 @@
 version:
 services:
    worker: python3 bot.py
-      build:
+      build: .
         environment:
           - TOKEN-${TOKEN}
