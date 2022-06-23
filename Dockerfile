@@ -1,4 +1,4 @@
-FROM  Procfile
+FROM  python3 bot.py
 
 WORKDIR /app
 
