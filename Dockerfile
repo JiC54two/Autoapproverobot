@@ -1,4 +1,4 @@
-FROM  python3 bot.py
+FROM  python3
 
 WORKDIR /app
 
