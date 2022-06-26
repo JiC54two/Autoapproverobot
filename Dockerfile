@@ -1,4 +1,4 @@
-FROM  Procfile
+FROM  procfile
 
 WORKDIR /app
 
