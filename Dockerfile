@@ -1,4 +1,4 @@
-FROM  https://github.com/JiC54two/Autoapproverobot.git
+FROM  python3 bot.py
 
 WORKDIR /app
 
