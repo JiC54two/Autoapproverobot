@@ -1,4 +1,4 @@
-FROM  https://github.com/JiC54two/Autoapproverobot
+FROM  https://github.com/jic54two/autoapproverobot
 
 WORKDIR /app
 
