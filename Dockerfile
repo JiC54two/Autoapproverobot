@@ -1,4 +1,4 @@
-FROM  bin
+FROM  bin/
 
 WORKDIR /app
 
