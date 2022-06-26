@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  worker: "python3 bot.py"
+  worker: python3 bot.py
     build: .
     environment:
       TOKEN: $TOKEN
