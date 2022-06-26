@@ -1,4 +1,4 @@
-FROM  bin/autoapproverbot
+FROM  /bin
 
 WORKDIR /app
 
