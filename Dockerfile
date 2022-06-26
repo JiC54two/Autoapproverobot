@@ -1,4 +1,4 @@
-FROM  procfile
+FROM  autoapproverobot
 
 WORKDIR /app
 
