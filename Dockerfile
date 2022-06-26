@@ -1,4 +1,4 @@
-FROM  https://github.com/jic54two/autoapproverobot.git
+FROM  bin
 
 WORKDIR /app
 
