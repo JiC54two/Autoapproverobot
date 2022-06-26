@@ -1,6 +1,0 @@
-version:
-services:
-   worker: python3 bot.py
-      build: .
-        environment:
-          TOKEN: $TOKEN
